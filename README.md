@@ -1,7 +1,8 @@
 # Inventorious
 
 Add Text here
-<img src="71xggswdBSL._SY355_.jpg?raw=true"/>
+<img src="Communication.png?raw=true"/>
+
 ## Skunk game
 Users (who have access to the app), can specify items, members (who can borrow items), and create borrow orders for members. Orders can then be marked as returned or canceled, or renewed for 7 days from a user. Only authenticated users can access the app and make changes. User registration is disabled. Emails to a specified address are sent when an order is created, deleted, renewed, or marked as "returned".
 
