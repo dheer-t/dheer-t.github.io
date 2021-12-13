@@ -1,10 +1,15 @@
-# Inventorious
+# Welcome to portfolio page on github
 
 Add Text here
 <img src="Communciation.png?raw=true"/>
 
 ## Skunk game
-Users (who have access to the app), can specify items, members (who can borrow items), and create borrow orders for members. Orders can then be marked as returned or canceled, or renewed for 7 days from a user. Only authenticated users can access the app and make changes. User registration is disabled. Emails to a specified address are sent when an order is created, deleted, renewed, or marked as "returned".
+This project provides Skunk game in which two players rolls two dices and get scores based on the number shown on the top face.
+If a player gets one Skunk among two dices, the score of that round is cleared to zero and if gets both of Skunks out of two dices, the total score becomes zero, where scores are divided into two categories: Round score and Total score.
+If any one gets 100 scores first, he will win the game. 
+This project is a c# WPF application 
+
+
 
 ## Installation Instructions
 
